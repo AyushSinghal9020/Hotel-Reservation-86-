@@ -1,3 +1,5 @@
+# Code Documentation
+
 Code documentation is an important part of software development, providing important information about your code to other developers, stakeholders, and users. It makes 
 code easier to understand, maintain, and reuse.A document can contain a variety of information, such as:
 * **The purpose**: A description of the purpose of the code and the problem it solves.
